@@ -21,8 +21,9 @@ The analysis seeks to address the following key questions:
 
 The repository is organized as follows:
 
-- `data/`: Includes the dataset(s) used in the analysis.
-- `presentation/`: Contains the PowerPoint presentation summarizing the findings and recommendations.
+- `Portland Trial Blazer Utility.xlxs:`: Includes the dataset(s) used in the analysis.
+- `Portland Trial Blazer - PPT Presentation.pdf/`: Contains the PowerPoint presentation summarizing the findings and recommendations.
+- `Portland Trial Detailed analysis.pdf/`: Contains the detailed analysis on the case.
 
 ## Tools Used
 The following tools and technologies were used in this analysis:
