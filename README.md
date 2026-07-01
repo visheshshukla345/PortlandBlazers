@@ -1,4 +1,4 @@
-# PortlandBlazers — Conjoint Analysis for Season-Ticket Pricing
+# PortlandBlazers: Conjoint Analysis for Season-Ticket Pricing
 
 After a rough 2005 season, the Portland Trail Blazers faced declining attendance. What do fans actually value in a season-ticket package, and how should the team price and bundle it? This project answers that with conjoint analysis.
 
@@ -33,10 +33,10 @@ Attendance was falling and perception was weak. Rather than guess, the team can 
 
 ## Repo guide
 
-- `Portland Blazers Detailed analysis.pdf` — the full conjoint write-up and pricing logic.
-- `Portland Trail Blazers Utilities.xlsx` — attribute and level utility scores.
-- `Portland Trail Blazer - PPT Presentation.pdf` — slides.
-- `assets/hero.png` — attribute-importance chart from the conjoint results.
+- `Portland Blazers Detailed analysis.pdf`: the full conjoint write-up and pricing logic.
+- `Portland Trail Blazers Utilities.xlsx`: attribute and level utility scores.
+- `Portland Trail Blazer - PPT Presentation.pdf`: slides.
+- `assets/hero.png`: attribute-importance chart from the conjoint results.
 
 **Reproduce:** the utilities workbook holds the part-worths; attribute importance is the range of each attribute's utilities, normalized across attributes.
 
